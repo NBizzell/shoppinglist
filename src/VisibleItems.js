@@ -29,3 +29,5 @@ class VisibleItems extends React.Component {
 }
 
 export default VisibleItems;
+
+//correct version
